@@ -1,0 +1,25 @@
+html{
+    background-color: rgb(172, 164, 164);
+    color: whitesmoke;
+    font-size: 25px;
+}
+header{
+    font-size: 33px;
+}
+button{
+    display: block;
+    float: left;
+    font-size: 33px;
+    width: 33%;
+}
+input{
+    font-size: 25px;
+}
+form p{
+    float: left;
+    width: 50%;
+}
+button:hover{
+    background-color: rgb(226, 221, 240);
+}
+
