@@ -104,7 +104,5 @@ function range(){
         output.innerHTML = " The range of the numbers is " + range;
     }
 
-function mode(){
-    mode = 
-}
+
 
